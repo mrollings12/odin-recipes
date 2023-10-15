@@ -1,0 +1,15 @@
+* {
+    background-color: tan;
+}
+
+h1 {
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-weight: bold;
+}
+.li {
+    color: aqua;
+    font-family: cursive, sans-serif;
+    text-align: justify;
+}
