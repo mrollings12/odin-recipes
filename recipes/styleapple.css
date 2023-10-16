@@ -6,6 +6,7 @@ img {
     height: auto;
     width: 500px;
     object-position: center;
+    inset-block: auto;
 }
 h1 {
     color: black;

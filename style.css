@@ -12,5 +12,7 @@ h1 {
 li {
     color: aqua;
     font-family: cursive, sans-serif;
-    text-align: justify;
+    text-align: center;
+    padding: auto
+    margin-bottom: 10px;
 }
