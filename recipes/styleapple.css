@@ -2,14 +2,14 @@
     background-color: tan;
 }
 
-img #center {
-    display: flex;
+img  {
+    display: block;
     justify-content: center;
     align-items: center;
     height: 100vh;
 }
 
-h1 #center {
+h1  {
     color: black;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
