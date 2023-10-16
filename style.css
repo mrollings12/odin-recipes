@@ -13,7 +13,7 @@ p {
     color: aqua;
     font-family: cursive, sans-serif;
     text-align: center;
-    padding: auto
-    margin: auto;
-    
+    padding: auto;
+    margin-left: auto;
+    margin-right: auto;
 }
