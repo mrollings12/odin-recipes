@@ -10,8 +10,9 @@ h1 {
     margin-bottom: auto;
 }
 p {
-    color: aqua;
+    color: black;
     font-family: cursive, sans-serif;
+    font-weight: bold;
     text-align: center;
     padding: auto;
     margin-left: auto;
